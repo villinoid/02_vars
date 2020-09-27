@@ -1,1 +1,1 @@
-# vostrikovVladislav
+# The variables asignment
